@@ -1,0 +1,35 @@
+References - 
+
+1) 
+Github.io. (2017). Python Data Analysis with Pandas and Matplotlib. [online] 
+Available at: https://ourcodingclub.github.io/tutorials/pandas-python-intro/ 
+[Accessed 10 May 2021].
+
+2)
+Kho, J. (2019). Pandas for People In A Hurry - Towards Data Science. [online] Medium. 
+Available at: https://towardsdatascience.com/pandas-for-people-in-a-hurry-59d966630ae0 
+[Accessed 9 May 2021].
+
+3)
+Benton, J. (2020). Interpreting Coefficients in Linear and Logistic Regression. [online] Medium. 
+Available at: https://towardsdatascience.com/interpreting-coefficients-in-linear-and-logistic-regression-6ddf1295f6f1 
+[Accessed 11 May 2021].
+
+4)
+Giorgos Myrianthous (2021). fit() vs predict() vs fit_predict() in Python scikit-learn | Towards Data Science. [online] Medium. 
+Available at: https://towardsdatascience.com/fit-vs-predict-vs-fit-predict-in-python-scikit-learn-f15a34a8d39f 
+[Accessed 11 May 2021].
+
+5)
+JournalDev. (2020). Seaborn Distplot: A Comprehensive Guide - JournalDev. [online] 
+Available at: https://www.journaldev.com/39993/seaborn-distplot 
+[Accessed 10 May 2021].
+
+‌
+
+‌
+
+‌
+‌
+
+‌
